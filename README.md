@@ -1,38 +1,34 @@
 # Shopify Postman
 
-As we move to Shopify Plus, we had to spend a time working on the full mapping of the Shopify API.
-Unfortunately, our Account Manager said that there is no Postman Collection available for the ShopifyAPI Endpoints, so we did our own.
+I was looking for a Shopify Postman colleciton and found one done by @lucasxxx and @renatodex, from a couple of years ago. I though I might remove some deprecated features and add OAuth 2.0 authorization.
 
-# How to use?
+## How to use?
 
 The Postman Collection file is a JSON containing all information about each request.
-This Collection is using Postman Environment Variables, so all you have to do is create an Environment at your Postman and register the Postman variables, which are:
+This Collection is using Postman Collection Variables, so to adjust them you need to go to the edit collection page and variables tab. Then change "your-development-shop" for your shop name and `api_version` to the version you want to use (don't forget to Reset All).
 
-- apikey
-- password
-- yourstore
+Now go to authorization tab in the edit collection page and choose **Oauth 2.0** authorization type.
 
-To learn more about Postman variables: https://www.getpostman.com/docs/environments
+When creating new access token:
+- **Callback URL** should be one you whitelisted when creating your Shopify app
+- **Auth URL:** `https://{{shop}}.myshopify.com/admin/oauth/authorize`
+- **Access Token URL:** `https://{{shop}}.myshopify.com/admin/oauth/access_token`
+- **Client ID** and **Client Secret** of your Shopify app
+- **Scope:** you can find list of Shopify access scopes [HERE](https://shopify.dev/docs/admin-api/access-scopes)
+- **State:** `12345`
+- **Client Authentication:** Send client credentials in body
 
-Once you register the required variables for your store, you will be able to use the whole Collection.
+Request your new access token and you should be good to go.
 
-# How to know what is my API Credentials?
-
-In order to retrieve or create your private API Credentials, follow this link:
-https://help.shopify.com/api/guides/api-credentials
-
-# Missing Endpoints
+## Missing Endpoints
 
 - Checkout
 - User
 - UsageCharge
 - Draft Order
 
-# Collaboration
+## Collaboration
 
 Feel free to contribute if you believe there is something missing.
 
-# Authors
 
-Lucas Santana (@lucasxxx)
-Renato Alves (@renatodex)
