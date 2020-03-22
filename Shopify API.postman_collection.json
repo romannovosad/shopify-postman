@@ -48,7 +48,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/checkouts.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/checkouts.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -86,7 +86,7 @@
 							"raw": "{\n  \"application_charge\": {\n    \"name\": \"Super Duper Expensive action\",\n    \"price\": 100.0,\n    \"return_url\": \"http:\\/\\/super-duper.shopifyapps.com\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/application_charges.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/application_charges.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -114,7 +114,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/application_charges/1.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/application_charges/1.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -143,7 +143,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/application_charges.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/application_charges.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -171,7 +171,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/application_charges.json?since_id=556467234",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/application_charges.json?since_id=556467234",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -209,7 +209,7 @@
 							"raw": "{\n  \"application_charge\": {\n    \"id\": 675931192,\n    \"name\": \"iPod Cleaning\",\n    \"api_client_id\": 755357713,\n    \"price\": \"5.00\",\n    \"status\": \"accepted\",\n    \"return_url\": \"http:\\/\\/google.com\",\n    \"created_at\": \"2017-01-05T15:31:41-05:00\",\n    \"updated_at\": \"2017-01-05T15:31:41-05:00\",\n    \"test\": null,\n    \"charge_type\": null,\n    \"decorated_return_url\": \"http:\\/\\/google.com?charge_id=675931192\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/application_charges/675931192/activate.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/application_charges/675931192/activate.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -245,7 +245,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs/62581763/articles.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs/62581763/articles.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -275,7 +275,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs/62581763/articles.json?since_id=128701187",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs/62581763/articles.json?since_id=128701187",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -311,7 +311,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs/62581763/articles/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs/62581763/articles/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -342,7 +342,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs/62581763/articles/196805774.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs/62581763/articles/196805774.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -377,7 +377,7 @@
 							"raw": "{\n  \"article\": {\n    \"title\": \"Article test\",\n    \"author\": \"John Smith\",\n    \"tags\": \"This Post, Has Been Tagged\",\n    \"body_html\": \"<h1>I like articles<\\/h1>\\n<p><strong>Yea<\\/strong>, I like posting them through <span class=\\\"caps\\\">REST<\\/span>.<\\/p>\",\n    \"published_at\": \"Thu Mar 24 15:45:47 UTC 2011\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs/62581763/articles.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs/62581763/articles.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -411,7 +411,7 @@
 							"raw": "{\n  \"article\": {\n    \"title\": \"oi\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs/62581763/articles/196805774.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs/62581763/articles/196805774.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -442,7 +442,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/articles/authors.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/articles/authors.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -471,7 +471,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/articles/tags.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/articles/tags.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -504,7 +504,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs/62581763/articles/197247246.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs/62581763/articles/197247246.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -542,7 +542,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/themes/110163843/assets.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/themes/110163843/assets.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -577,7 +577,7 @@
 							"raw": "{\n  \"asset\": {\n    \"key\": \"templates\\/index.liquid\",\n    \"value\": \"<img src='backsoon-postit.png'><p>We are busy updating the store for you and will be back within the hour.<\\/p>\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/themes/110163843/assets.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/themes/110163843/assets.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -612,7 +612,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/themes/110163843/assets.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/themes/110163843/assets.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -650,7 +650,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -679,7 +679,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -709,7 +709,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs/62581763.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs/62581763.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -743,7 +743,7 @@
 							"raw": "{\n  \"blog\": {\n    \"title\": \"Test Blog via API\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -776,7 +776,7 @@
 							"raw": "{\n  \"blog\": {\n    \"metafields\": [\n      {\n        \"key\": \"new\",\n        \"value\": \"newvalue\",\n        \"value_type\": \"string\",\n        \"namespace\": \"global\"\n      }\n    ]\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs/92408974.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs/92408974.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -810,7 +810,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/blogs/92408974.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/blogs/92408974.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -851,7 +851,7 @@
 							"raw": "{\n  \"carrier_service\": {\n    \"name\": \"Shipping Rate Provider\",\n    \"callback_url\": \"http:\\/\\/shippingrateprovider.com\",\n    \"service_discovery\": true\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/carrier_services.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/carrier_services.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -880,7 +880,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/carrier_services/13841038.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/carrier_services/13841038.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -910,7 +910,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/carrier_services.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/carrier_services.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -939,7 +939,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/carrier_services/13841038.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/carrier_services/13841038.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -973,7 +973,7 @@
 							"raw": "{\n  \"carrier_service\": {\n    \"name\": \"Shipping Rate Provider\",\n    \"callback_url\": \"http:\\/\\/shippingrateprovider.com\",\n    \"service_discovery\": true\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/carrier_services/13841038.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/carrier_services/13841038.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1020,7 +1020,7 @@
 							"raw": "{\n  \"collect\": {\n    \"product_id\": 921728736,\n    \"collection_id\": 841564295\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com//admin/api/{{api_version}/collects.json",
+							"raw": "https://{{shop}}.myshopify.com//admin/api/{{api_version}}/collects.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1054,7 +1054,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/collects/921728736.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/collects/921728736.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1084,7 +1084,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/collects.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/collects.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1113,7 +1113,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/collects/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/collects/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1143,7 +1143,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/collects/20713233987.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/collects/20713233987.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1180,7 +1180,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/countries.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/countries.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1209,7 +1209,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/countries/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/countries/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1239,7 +1239,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/countries/261414723.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/countries/261414723.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1273,7 +1273,7 @@
 							"raw": "{\n  \"country\": {\n    \"code\": \"FR\",\n    \"tax\": 0.25\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/countries.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/countries.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1306,7 +1306,7 @@
 							"raw": "{\n  \"country\": {\n    \"id\": 444574734,\n    \"tax\": 0.1\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/countries/444574734.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/countries/444574734.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1340,7 +1340,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/countries/444574734.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/countries/444574734.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1377,7 +1377,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/custom_collections.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/custom_collections.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1406,7 +1406,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/custom_collections/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/custom_collections/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1436,7 +1436,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/custom_collections/246409795.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/custom_collections/246409795.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1470,7 +1470,7 @@
 							"raw": "{\n  \"custom_collection\": {\n    \"title\": \"Macbooks\",\n    \"image\": {\n      \"src\": \"http:\\/\\/example.com\\/rails_logo.gif\"\n    }\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/custom_collections.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/custom_collections.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1503,7 +1503,7 @@
 							"raw": "{\n  \"custom_collection\": {\n    \"id\": 841564295,\n    \"body_html\": \"<p>5000 songs in your pocket<\\/p>\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/custom_collections/246409795.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/custom_collections/246409795.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1537,7 +1537,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/custom_collections/246409795.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/custom_collections/246409795.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1573,7 +1573,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1602,7 +1602,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/search.json?query=country:Brazil",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/search.json?query=country:Brazil",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1638,7 +1638,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/3989659651.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/3989659651.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1672,7 +1672,7 @@
 							"raw": "{\n  \"customer\": {\n    \"first_name\": \"Steve\",\n    \"last_name\": \"Lastnameson\",\n    \"email\": \"steve.lastnameson@example.com\",\n    \"phone\": \"+15142546011\",\n    \"verified_email\": true,\n    \"addresses\": [\n      {\n        \"address1\": \"123 Oak St\",\n        \"city\": \"Ottawa\",\n        \"province\": \"ON\",\n        \"phone\": \"555-1212\",\n        \"zip\": \"123 ABC\",\n        \"last_name\": \"Lastnameson\",\n        \"first_name\": \"Mother\",\n        \"country\": \"CA\"\n      }\n    ]\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1705,7 +1705,7 @@
 							"raw": "{\n  \"customer\": {\n    \"id\": 207119551,\n    \"metafields\": [\n      {\n        \"key\": \"new\",\n        \"value\": \"newvalue\",\n        \"value_type\": \"string\",\n        \"namespace\": \"global\"\n      }\n    ]\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/5438892686.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/5438892686.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1739,7 +1739,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/5438892686.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/5438892686.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1769,7 +1769,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1799,7 +1799,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders.json?customer_id=5380614542",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders.json?customer_id=5380614542",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1841,7 +1841,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/3989659651/addresses.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/3989659651/addresses.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1872,7 +1872,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/3989659651/addresses/5436816654.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/3989659651/addresses/5436816654.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1908,7 +1908,7 @@
 							"raw": "{\n  \"address\": {\n    \"address1\": \"1 Rue des Carrieres\",\n    \"address2\": \"Suite 1234\",\n    \"city\": \"Montreal\",\n    \"company\": \"Fancy Co.\",\n    \"first_name\": \"Samuel\",\n    \"last_name\": \"de Champlain\",\n    \"phone\": \"819-555-5555\",\n    \"province\": \"Quebec\",\n    \"country\": \"Canada\",\n    \"zip\": \"G1R 4P5\",\n    \"name\": \"Samuel de Champlain\",\n    \"province_code\": \"QC\",\n    \"country_code\": \"CA\",\n    \"country_name\": \"Canada\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/3989659651/addresses.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/3989659651/addresses.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1943,7 +1943,7 @@
 							"raw": "{\n  \"address\": {\n    \"id\": 207119551,\n    \"zip\": \"90210\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/3989659651/addresses/5484465742.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/3989659651/addresses/5484465742.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1979,7 +1979,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/3989659651/addresses/5484465742.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/3989659651/addresses/5484465742.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2015,7 +2015,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/3989659651/addresses/set.json?address_ids[]=5441388622&operation=destroy",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/3989659651/addresses/set.json?address_ids[]=5441388622&operation=destroy",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2061,7 +2061,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customers/3989659651/addresses/5436816654/default.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customers/3989659651/addresses/5436816654/default.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2101,7 +2101,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customer_saved_searches.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customer_saved_searches.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2130,7 +2130,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customer_saved_searches/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customer_saved_searches/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2160,7 +2160,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customer_saved_searches/1189248515.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customer_saved_searches/1189248515.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2190,7 +2190,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customer_saved_searches/1189248515/customers.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customer_saved_searches/1189248515/customers.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2225,7 +2225,7 @@
 							"raw": "{\n  \"customer_saved_search\": {\n    \"name\": \"Spent more than $50\",\n    \"query\": \"total_spent:>50\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customer_saved_searches.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customer_saved_searches.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2258,7 +2258,7 @@
 							"raw": "{\n  \"customer_saved_search\": {\n    \"id\": 2029905294,\n    \"name\": \"This Name Has Been Changed\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customer_saved_searches/2029905294.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customer_saved_searches/2029905294.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2292,7 +2292,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/customer_saved_searches/2029905294.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/customer_saved_searches/2029905294.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2333,7 +2333,7 @@
 							"raw": "{\n  \"discount\": {\n    \"discount_type\": \"fixed_amount\",\n    \"value\": \"10.00\",\n    \"code\": \"fortunamajor\",\n    \"minimum_order_amount\": \"40.00\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/discounts.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/discounts.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2362,7 +2362,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/discounts.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/discounts.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2391,7 +2391,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/discounts/2951196163.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/discounts/2951196163.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2425,7 +2425,7 @@
 							"raw": "{\n  \"discount\": {\n    \"discount_type\": \"fixed_amount\",\n    \"value\": \"10.00\",\n    \"code\": \"fortunamajor\",\n    \"minimum_order_amount\": \"40.00\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/discounts/2951196163/disable.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/discounts/2951196163/disable.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2460,7 +2460,7 @@
 							"raw": "{\n  \"discount\": {\n    \"discount_type\": \"fixed_amount\",\n    \"value\": \"10.00\",\n    \"code\": \"fortunamajor\",\n    \"minimum_order_amount\": \"40.00\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/discounts/2951196163/enable.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/discounts/2951196163/enable.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2495,7 +2495,7 @@
 							"raw": "{\n  \"discount\": {\n    \"discount_type\": \"fixed_amount\",\n    \"value\": \"10.00\",\n    \"code\": \"fortunamajor\",\n    \"minimum_order_amount\": \"40.00\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/discounts/2951196163.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/discounts/2951196163.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2532,7 +2532,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/events.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/events.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2563,7 +2563,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/events.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/events.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2594,7 +2594,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/events/58706658318.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/events/58706658318.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2624,7 +2624,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/events/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/events/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2661,7 +2661,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4528049998/fulfillments/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4528049998/fulfillments/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2693,7 +2693,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4495703502/fulfillments.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4495703502/fulfillments.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2724,7 +2724,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4528049998/fulfillments/3770145678.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4528049998/fulfillments/3770145678.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2760,7 +2760,7 @@
 							"raw": "{\n  \"fulfillment\": {\n    \"tracking_number\": \"987654321\",\n    \"id\": 3770145678\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4528049998/fulfillments/3770145678.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4528049998/fulfillments/3770145678.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2796,7 +2796,7 @@
 							"raw": "{\n \n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4528049998/fulfillments/3770145678/complete.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4528049998/fulfillments/3770145678/complete.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2833,7 +2833,7 @@
 							"raw": "{\n \n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4528049998/fulfillments/3770145678/open.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4528049998/fulfillments/3770145678/open.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2870,7 +2870,7 @@
 							"raw": "{\n \n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4528049998/fulfillments/3770145678/cancel.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4528049998/fulfillments/3770145678/cancel.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2910,7 +2910,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4528049998/fulfillments/3770145678/events.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4528049998/fulfillments/3770145678/events.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2943,7 +2943,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4528049998/fulfillments/3770145678/events/#{event_id}.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4528049998/fulfillments/3770145678/events/#{event_id}.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -2982,7 +2982,7 @@
 							"raw": "{\n  \"event\": {\n    \"status\": \"delivered\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4495703502/fulfillments/3763917198/events.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4495703502/fulfillments/3763917198/events.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3019,7 +3019,7 @@
 							"raw": "{\n  \"event\": {\n    \"status\": \"delivered\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4495703502/fulfillments/3763917198/events/9519874062.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4495703502/fulfillments/3763917198/events/9519874062.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3060,7 +3060,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/fulfillment_services.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/fulfillment_services.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3093,7 +3093,7 @@
 							"raw": "{\n  \"fulfillment_service\": {\n    \"name\": \"MarsFulfillment\",\n    \"callback_url\": \"http:\\/\\/google.com\",\n    \"inventory_management\": true,\n    \"tracking_support\": true,\n    \"requires_shipping_method\": true,\n    \"format\": \"json\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/fulfillment_services.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/fulfillment_services.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3122,7 +3122,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/fulfillment_services/1357646.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/fulfillment_services/1357646.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3156,7 +3156,7 @@
 							"raw": "{\n  \"fulfillment_service\": {\n    \"id\": 755357713,\n    \"inventory_management\": false\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/fulfillment_services/1357646.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/fulfillment_services/1357646.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3190,7 +3190,7 @@
 							"raw": "{\n  \"fulfillment_service\": {\n    \"id\": 755357713,\n    \"inventory_management\": false\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/fulfillment_services/1357646.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/fulfillment_services/1357646.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3227,7 +3227,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/gift_cards.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/gift_cards.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3256,7 +3256,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/gift_cards.json?status=enabled",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/gift_cards.json?status=enabled",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3291,7 +3291,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/gift_cards/61466894.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/gift_cards/61466894.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3321,7 +3321,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/gift_cards/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/gift_cards/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3355,7 +3355,7 @@
 							"raw": "{\n  \"gift_card\": {\n    \"initial_value\": 25.0\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/gift_cards.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/gift_cards.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3388,7 +3388,7 @@
 							"raw": "{\n  \"gift_card\": {\n    \"expires_on\": \"{{api_version}-01\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/gift_cards/61810574.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/gift_cards/61810574.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3422,7 +3422,7 @@
 							"raw": "{\n  \"gift_card\": {\n    \"id\": 61810574\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/gift_cards/61810574/disable.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/gift_cards/61810574/disable.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3453,7 +3453,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/gift_cards/search.json?query=61",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/gift_cards/search.json?query=61",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3496,7 +3496,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/locations.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/locations.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3525,7 +3525,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/locations/8790723.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/locations/8790723.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3562,7 +3562,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/metafields.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/metafields.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3591,7 +3591,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/metafields.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/metafields.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3622,7 +3622,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/metafields/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/metafields/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3652,7 +3652,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/metafields/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/metafields/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3684,7 +3684,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/metafields/33145232974.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/metafields/33145232974.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3714,7 +3714,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/metafields/33058305934.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/metafields/33058305934.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3750,7 +3750,7 @@
 							"raw": "{\n  \"metafield\": {\n    \"namespace\": \"inventory\",\n    \"key\": \"warehouse\",\n    \"value\": 25,\n    \"value_type\": \"integer\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/metafields.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/metafields.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3783,7 +3783,7 @@
 							"raw": "{\n  \"metafield\": {\n    \"namespace\": \"inventory\",\n    \"key\": \"warehouse\",\n    \"value\": 25,\n    \"value_type\": \"integer\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/metafields.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/metafields.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3818,7 +3818,7 @@
 							"raw": "{\n  \"metafield\": {\n    \"id\": 721389482,\n    \"value\": \"something new\",\n    \"value_type\": \"string\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/metafields/33145232974.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/metafields/33145232974.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3852,7 +3852,7 @@
 							"raw": "{\n  \"metafield\": {\n    \"id\": 845366454,\n    \"value\": \"titre\",\n    \"value_type\": \"string\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/metafields/33058305934.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/metafields/33058305934.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3888,7 +3888,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/metafields/33145232974.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/metafields/33145232974.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3922,7 +3922,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/metafields/33058305934.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/metafields/33058305934.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3961,7 +3961,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -3990,7 +3990,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4020,7 +4020,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4054,7 +4054,7 @@
 							"raw": "{}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/close.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/close.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4089,7 +4089,7 @@
 							"raw": "{}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/open.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/open.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4124,7 +4124,7 @@
 							"raw": "{}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/cancel.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/cancel.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4159,7 +4159,7 @@
 							"raw": "{\n  \"note\": \"Broke in shipping\",\n  \"amount\": \"10.00\"\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/cancel.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/cancel.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4194,7 +4194,7 @@
 							"raw": "{\n  \"order\": {\n    \"line_items\": [\n      {\n        \"variant_id\": 33214924878,\n        \"quantity\": 1\n      }\n    ],\n    \"customer\": {\n      \"id\": 3989659651\n    },\n    \"financial_status\": \"pending\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4227,7 +4227,7 @@
 							"raw": "{\n  \"order\": {\n    \"customer\": null\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4261,7 +4261,7 @@
 							"raw": "{\n  \"order\": {\n    \"customer\": null\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4302,7 +4302,7 @@
 							"raw": "{\n  \"risk\": {\n    \"message\": \"This order came from an anonymous proxy\",\n    \"recommendation\": \"cancel\",\n    \"score\": 1.0,\n    \"source\": \"External\",\n    \"cause_cancel\": true,\n    \"display\": true\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4602125518/risks.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4602125518/risks.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4333,7 +4333,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4602125518/risks.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4602125518/risks.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4364,7 +4364,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4602125518/risks/8609858574.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4602125518/risks/8609858574.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4400,7 +4400,7 @@
 							"raw": "{\n  \"risk\": {\n    \"id\": 284138680,\n    \"message\": \"After further review, this is a legitimate order\",\n    \"recommendation\": \"accept\",\n    \"source\": \"External\",\n    \"cause_cancel\": false,\n    \"score\": 0.0\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4602125518/risks/8609858574.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4602125518/risks/8609858574.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4436,7 +4436,7 @@
 							"raw": "{\n  \"risk\": {\n    \"id\": 284138680,\n    \"message\": \"After further review, this is a legitimate order\",\n    \"recommendation\": \"accept\",\n    \"source\": \"External\",\n    \"cause_cancel\": false,\n    \"score\": 0.0\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4602125518/risks/8609858574.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4602125518/risks/8609858574.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4475,7 +4475,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/pages.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/pages.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4504,7 +4504,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/pages/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/pages/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4534,7 +4534,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/pages/169722563.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/pages/169722563.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4568,7 +4568,7 @@
 							"raw": "{\n  \"page\": {\n    \"title\": \"Warranty information\",\n    \"body_html\": \"<h1>Warranty<\\/h1>\\n<p><strong>Forget it<\\/strong>, we aint giving you nothing<\\/p>\",\n    \"published\": false\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/pages.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/pages.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4601,7 +4601,7 @@
 							"raw": "{\n  \"page\": {\n    \"id\": 131092082,\n    \"published\": true\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/pages/216307854.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/pages/216307854.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4635,7 +4635,7 @@
 							"raw": "{\n  \"page\": {\n    \"id\": 131092082,\n    \"published\": true\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/pages/216307854.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/pages/216307854.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4672,7 +4672,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/policies.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/policies.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4708,7 +4708,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4737,7 +4737,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4767,7 +4767,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4801,7 +4801,7 @@
 							"raw": "{\n  \"product\": {\n    \"title\": \"Burton Custom Freestyle 151\",\n    \"body_html\": \"<strong>Good snowboard!<\\/strong>\",\n    \"vendor\": \"Burton\",\n    \"product_type\": \"Snowboard\",\n    \"variants\": [\n      {\n        \"option1\": \"First\",\n        \"price\": \"10.00\",\n        \"sku\": 123\n      },\n      {\n        \"option1\": \"Second\",\n        \"price\": \"20.00\",\n        \"sku\": \"123\"\n      }\n    ]\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4834,7 +4834,7 @@
 							"raw": "{\n  \"product\": {\n    \"id\": 9579007950,\n    \"title\": \"Updated Product Title\",\n    \"variants\": [\n      {\n        \"id\": 25831837123,\n        \"price\": \"2000.00\",\n        \"sku\": \"Updating the Product SKU\"\n      }\n    ]\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/9579007950.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/9579007950.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4868,7 +4868,7 @@
 							"raw": "{\n  \"product\": {\n    \"id\": 9579007950,\n    \"title\": \"Updated Product Title\",\n    \"variants\": [\n      {\n        \"id\": 25831837123,\n        \"price\": \"2000.00\",\n        \"sku\": \"Updating the Product SKU\"\n      }\n    ]\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/9579007950.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/9579007950.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4905,7 +4905,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/images.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/images.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4936,7 +4936,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/images/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/images/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4968,7 +4968,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/images/19489404942.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/images/19489404942.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5004,7 +5004,7 @@
 							"raw": "{\n  \"image\": {\n    \"src\": \"http:\\/\\/example.com\\/rails_logo.gif\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/images.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/images.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5039,7 +5039,7 @@
 							"raw": "{\n  \"image\": {\n    \"id\": 850703190,\n    \"position\": 2,\n    \"metafields\": [\n      {\n        \"key\": \"alt\",\n        \"value\": \"new alt tag content\",\n        \"value_type\": \"string\",\n        \"namespace\": \"tags\"\n      }\n    ]\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/images/19489404942.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/images/19489404942.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5075,7 +5075,7 @@
 							"raw": "{\n  \"image\": {\n    \"id\": 850703190,\n    \"position\": 2,\n    \"metafields\": [\n      {\n        \"key\": \"alt\",\n        \"value\": \"new alt tag content\",\n        \"value_type\": \"string\",\n        \"namespace\": \"tags\"\n      }\n    ]\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/images/19489404942.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/images/19489404942.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5114,7 +5114,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/variants.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/variants.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5145,7 +5145,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/variants/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/variants/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5177,7 +5177,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}//variants/25831837123.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}//variants/25831837123.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5212,7 +5212,7 @@
 							"raw": "{\n  \"variant\": {\n    \"option1\": \"Yellow\",\n    \"price\": \"1.00\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/variants.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/variants.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5247,7 +5247,7 @@
 							"raw": "{\n  \"variant\": {\n    \"id\": 808950810,\n    \"option1\": \"Not Pink\",\n    \"price\": \"99.00\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/variants/34705478094.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/variants/34705478094.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5281,7 +5281,7 @@
 							"raw": "{\n  \"page\": {\n    \"id\": 131092082,\n    \"published\": true\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/products/7990943555/variants/34705478094.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555/variants/34705478094.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5320,7 +5320,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/countries/261414723/provinces/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/countries/261414723/provinces/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5352,7 +5352,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/countries/261414723/provinces.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/countries/261414723/provinces.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5383,7 +5383,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/countries/261414723/provinces/4003640003.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/countries/261414723/provinces/4003640003.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5419,7 +5419,7 @@
 							"raw": "{\n  \"province\": {\n    \"id\": 224293623,\n    \"tax\": 0.15\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/countries/261414723/provinces/4003640003.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/countries/261414723/provinces/4003640003.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5462,7 +5462,7 @@
 							"raw": "{\n  \"recurring_application_charge\": {\n    \"name\": \"Super Duper Plan\",\n    \"price\": 10.0,\n    \"return_url\": \"http:\\/\\/super-duper.shopifyapps.com\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/recurring_application_charges.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/recurring_application_charges.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5498,7 +5498,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/redirects.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/redirects.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5527,7 +5527,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/redirects/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/redirects/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5557,7 +5557,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/redirects/count/7376372.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/redirects/count/7376372.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5592,7 +5592,7 @@
 							"raw": "{\n  \"redirect\": {\n    \"path\": \"\\/ipod\",\n    \"target\": \"\\/pages\\/itunes\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/redirects.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/redirects.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5625,7 +5625,7 @@
 							"raw": "{\n  \"redirect\": {\n    \"id\": 668809255,\n    \"path\": \"\\/tiger\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/redirects/293743566.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/redirects/293743566.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5659,7 +5659,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/redirects/293743566.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/redirects/293743566.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5695,7 +5695,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/refunds.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/refunds.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5726,7 +5726,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/refunds/646546.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/refunds/646546.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5762,7 +5762,7 @@
 							"raw": "{\n  \"refund\": {\n    \"shipping\": {\n      \"full_refund\": true\n    },\n    \"refund_line_items\": [\n      {\n        \"line_item_id\": 25831837123,\n        \"quantity\": 1\n      }\n    ]\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/refunds/calculate.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/refunds/calculate.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5798,7 +5798,7 @@
 							"raw": "{\n  \"refund\": {\n    \"restock\": true,\n    \"notify\": true,\n    \"note\": \"wrong size\",\n    \"shipping\": {\n      \"full_refund\": true\n    },\n    \"refund_line_items\": [\n      {\n        \"line_item_id\": 518995019,\n        \"quantity\": 1\n      }\n    ],\n    \"transactions\": [\n      {\n        \"parent_id\": 801038806,\n        \"amount\": 199.65,\n        \"kind\": \"refund\",\n        \"gateway\": \"bogus\"\n      }\n    ]\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/refunds.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/refunds.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5836,7 +5836,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/script_tags.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/script_tags.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5865,7 +5865,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/script_tags/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/script_tags/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5895,7 +5895,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/script_tags/373484.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/script_tags/373484.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5929,7 +5929,7 @@
 							"raw": "{\n  \"script_tag\": {\n    \"event\": \"onload\",\n    \"src\": \"https:\\/\\/djavaskripped.org\\/fancy.js\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/script_tags.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/script_tags.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5962,7 +5962,7 @@
 							"raw": "{\n  \"script_tag\": {\n    \"id\": 596726825,\n    \"src\": \"https:\\/\\/somewhere-else.com\\/another.js\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/script_tags/108074126.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/script_tags/108074126.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -5996,7 +5996,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/script_tags/108074126.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/script_tags/108074126.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6033,7 +6033,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/shipping_zones.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/shipping_zones.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6069,7 +6069,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/shop.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/shop.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6105,7 +6105,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/smart_collections.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/smart_collections.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6134,7 +6134,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/smart_collections/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/smart_collections/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6164,7 +6164,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/smart_collections/401912846.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/smart_collections/401912846.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6198,7 +6198,7 @@
 							"raw": "{\n  \"smart_collection\": {\n    \"title\": \"Macbooks\",\n    \"published\": false\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/smart_collections.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/smart_collections.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6231,7 +6231,7 @@
 							"raw": "{\n  \"smart_collection\": {\n    \"id\": 482865238,\n    \"body_html\": \"<p>5000 songs in your pocket<\\/p>\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/smart_collections/401912846.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/smart_collections/401912846.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6265,7 +6265,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/smart_collections/408154574.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/smart_collections/408154574.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6302,7 +6302,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/themes.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/themes.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6331,7 +6331,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/themes/110163843.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/themes/110163843.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6365,7 +6365,7 @@
 							"raw": "{\n  \"theme\": {\n    \"name\": \"Lemongrass\",\n    \"src\": \"http:\\/\\/themes.shopify.com\\/theme.zip\",\n    \"role\": \"main\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/themes.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/themes.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6398,7 +6398,7 @@
 							"raw": "{\n  \"theme\": {\n    \"id\": 752253240,\n    \"role\": \"main\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/themes/164593742.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/themes/164593742.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6432,7 +6432,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/themes/164593742.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/themes/164593742.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6469,7 +6469,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/transactions.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/transactions.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6500,7 +6500,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/transactions/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/transactions/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6532,7 +6532,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/transactions/5016037966.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/transactions/5016037966.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6568,7 +6568,7 @@
 							"raw": "{\n  \"transaction\": {\n    \"kind\": \"capture\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/orders/4554953422/transactions.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/orders/4554953422/transactions.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6618,7 +6618,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/webhooks.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/webhooks.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6647,7 +6647,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/webhooks/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/webhooks/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6677,7 +6677,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/webhooks/93838927.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/webhooks/93838927.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6711,7 +6711,7 @@
 							"raw": "{\n  \"webhook\": {\n    \"topic\": \"orders\\/create\",\n    \"address\": \"http:\\/\\/whatever.hostname.com\\/\",\n    \"format\": \"json\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/webhooks.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/webhooks.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6744,7 +6744,7 @@
 							"raw": "{\n  \"webhook\": {\n    \"id\": 4759306,\n    \"address\": \"http:\\/\\/somewhere-else.com\\/\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/webhooks/503738446.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/webhooks/503738446.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6778,7 +6778,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/webhooks/503738446.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/webhooks/503738446.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6802,7 +6802,7 @@
 			"protocolProfileBehavior": {}
 		},
 		{
-			"name": "comments",
+			"name": "Comments",
 			"item": [
 				{
 					"name": "Get a list of all comments ",
@@ -6815,7 +6815,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/comments.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/comments.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6844,7 +6844,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/comments/count.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/comments/count.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6874,7 +6874,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/comments/count.json?blog_id=62581763",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/comments/count.json?blog_id=62581763",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6910,7 +6910,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/comments/#{id}.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/comments/#{id}.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6945,7 +6945,7 @@
 							"raw": "{\n  \"comment\": {\n    \"body\": \"I like comments\\nAnd I like posting them *RESTfully*.\",\n    \"author\": \"Your name\",\n    \"email\": \"renato@basico.com\",\n    \"ip\": \"107.20.160.121\",\n    \"blog_id\": 62581763,\n    \"article_id\": 128701187\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com//admin/api/{{api_version}/comments.json",
+							"raw": "https://{{shop}}.myshopify.com//admin/api/{{api_version}}/comments.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6979,7 +6979,7 @@
 							"raw": "\n{\n  \"comment\": {\n    \"id\": 2941387470,\n    \"body\": \"You can even update through a web service.\",\n    \"author\": \"Your new name\",\n    \"email\": \"your@updated-email.com\",\n    \"published_at\": \"2017-01-05T20:37:21.046Z\"\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/comments/2941387470.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/comments/2941387470.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -7013,7 +7013,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/comments/2941387470/spam.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/comments/2941387470/spam.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -7048,7 +7048,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/comments/2941387470/not_spam.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/comments/2941387470/not_spam.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -7083,7 +7083,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/comments/2941387470/approve.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/comments/2941387470/approve.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -7118,7 +7118,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/comments/2941387470/remove.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/comments/2941387470/remove.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -7153,7 +7153,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}/comments/2941387470/restore.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/comments/2941387470/restore.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -7177,6 +7177,25 @@
 			"protocolProfileBehavior": {}
 		}
 	],
+	"auth": {
+		"type": "oauth2",
+		"oauth2": [
+			{
+				"key": "accessToken",
+				"value": "",
+				"type": "string"
+			},
+			{
+				"key": "tokenType",
+				"type": "any"
+			},
+			{
+				"key": "addTokenTo",
+				"value": "header",
+				"type": "string"
+			}
+		]
+	},
 	"event": [
 		{
 			"listen": "prerequest",
