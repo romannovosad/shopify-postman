@@ -58,7 +58,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"checkouts.json"
 							]
 						}
@@ -96,7 +96,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"application_charges.json"
 							]
 						}
@@ -124,7 +124,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"application_charges",
 								"1.json"
 							]
@@ -153,7 +153,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"application_charges.json"
 							]
 						}
@@ -181,7 +181,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"application_charges.json"
 							],
 							"query": [
@@ -219,7 +219,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"application_charges",
 								"675931192",
 								"activate.json"
@@ -255,7 +255,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs",
 								"62581763",
 								"articles.json"
@@ -285,7 +285,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs",
 								"62581763",
 								"articles.json"
@@ -321,7 +321,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs",
 								"62581763",
 								"articles",
@@ -352,7 +352,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs",
 								"62581763",
 								"articles",
@@ -387,7 +387,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs",
 								"62581763",
 								"articles.json"
@@ -421,7 +421,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs",
 								"62581763",
 								"articles",
@@ -452,7 +452,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"articles",
 								"authors.json"
 							]
@@ -481,7 +481,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"articles",
 								"tags.json"
 							]
@@ -514,7 +514,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs",
 								"62581763",
 								"articles",
@@ -552,7 +552,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"themes",
 								"110163843",
 								"assets.json"
@@ -587,7 +587,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"themes",
 								"110163843",
 								"assets.json"
@@ -622,7 +622,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"themes",
 								"110163843",
 								"assets.json"
@@ -660,7 +660,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs.json"
 							]
 						},
@@ -689,7 +689,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs",
 								"count.json"
 							]
@@ -719,7 +719,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs",
 								"62581763.json"
 							]
@@ -753,7 +753,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs.json"
 							]
 						},
@@ -786,7 +786,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs",
 								"92408974.json"
 							]
@@ -820,7 +820,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"blogs",
 								"92408974.json"
 							]
@@ -861,7 +861,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"carrier_services.json"
 							]
 						},
@@ -890,7 +890,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"carrier_services",
 								"13841038.json"
 							]
@@ -920,7 +920,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"carrier_services.json"
 							]
 						},
@@ -949,7 +949,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"carrier_services",
 								"13841038.json"
 							]
@@ -983,7 +983,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"carrier_services",
 								"13841038.json"
 							]
@@ -1031,7 +1031,7 @@
 								"",
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"collects.json"
 							]
 						},
@@ -1064,7 +1064,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"collects",
 								"921728736.json"
 							]
@@ -1094,7 +1094,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"collects.json"
 							]
 						},
@@ -1123,7 +1123,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"collects",
 								"count.json"
 							]
@@ -1153,7 +1153,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"collects",
 								"20713233987.json"
 							]
@@ -1190,7 +1190,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"countries.json"
 							]
 						},
@@ -1219,7 +1219,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"countries",
 								"count.json"
 							]
@@ -1249,7 +1249,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"countries",
 								"261414723.json"
 							]
@@ -1283,7 +1283,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"countries.json"
 							]
 						},
@@ -1316,7 +1316,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"countries",
 								"444574734.json"
 							]
@@ -1350,7 +1350,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"countries",
 								"444574734.json"
 							]
@@ -1387,7 +1387,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"custom_collections.json"
 							]
 						},
@@ -1416,7 +1416,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"custom_collections",
 								"count.json"
 							]
@@ -1446,7 +1446,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"custom_collections",
 								"246409795.json"
 							]
@@ -1480,7 +1480,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"custom_collections.json"
 							]
 						},
@@ -1513,7 +1513,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"custom_collections",
 								"246409795.json"
 							]
@@ -1547,7 +1547,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"custom_collections",
 								"246409795.json"
 							]
@@ -1583,7 +1583,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers.json"
 							]
 						},
@@ -1612,7 +1612,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"search.json"
 							],
@@ -1648,7 +1648,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"3989659651.json"
 							]
@@ -1682,7 +1682,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers.json"
 							]
 						},
@@ -1715,7 +1715,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"5438892686.json"
 							]
@@ -1749,7 +1749,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"5438892686.json"
 							]
@@ -1779,7 +1779,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"count.json"
 							]
@@ -1809,7 +1809,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders.json"
 							],
 							"query": [
@@ -1851,7 +1851,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"3989659651",
 								"addresses.json"
@@ -1882,7 +1882,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"3989659651",
 								"addresses",
@@ -1918,7 +1918,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"3989659651",
 								"addresses.json"
@@ -1953,7 +1953,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"3989659651",
 								"addresses",
@@ -1989,7 +1989,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"3989659651",
 								"addresses",
@@ -2025,7 +2025,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"3989659651",
 								"addresses",
@@ -2071,7 +2071,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customers",
 								"3989659651",
 								"addresses",
@@ -2111,7 +2111,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customer_saved_searches.json"
 							]
 						},
@@ -2140,7 +2140,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customer_saved_searches",
 								"count.json"
 							]
@@ -2170,7 +2170,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customer_saved_searches",
 								"1189248515.json"
 							]
@@ -2200,7 +2200,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customer_saved_searches",
 								"1189248515",
 								"customers.json"
@@ -2235,7 +2235,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customer_saved_searches.json"
 							]
 						},
@@ -2268,7 +2268,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customer_saved_searches",
 								"2029905294.json"
 							]
@@ -2302,7 +2302,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"customer_saved_searches",
 								"2029905294.json"
 							]
@@ -2343,7 +2343,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"discounts.json"
 							]
 						},
@@ -2372,7 +2372,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"discounts.json"
 							]
 						},
@@ -2401,7 +2401,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"discounts",
 								"2951196163.json"
 							]
@@ -2435,7 +2435,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"discounts",
 								"2951196163",
 								"disable.json"
@@ -2470,7 +2470,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"discounts",
 								"2951196163",
 								"enable.json"
@@ -2505,7 +2505,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"discounts",
 								"2951196163.json"
 							]
@@ -2542,7 +2542,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"events.json"
@@ -2573,7 +2573,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"events.json"
@@ -2604,7 +2604,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"events",
 								"58706658318.json"
 							]
@@ -2634,7 +2634,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"events",
 								"count.json"
 							]
@@ -2671,7 +2671,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4528049998",
 								"fulfillments",
@@ -2703,7 +2703,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4495703502",
 								"fulfillments.json"
@@ -2734,7 +2734,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4528049998",
 								"fulfillments",
@@ -2770,7 +2770,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4528049998",
 								"fulfillments",
@@ -2806,7 +2806,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4528049998",
 								"fulfillments",
@@ -2843,7 +2843,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4528049998",
 								"fulfillments",
@@ -2880,7 +2880,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4528049998",
 								"fulfillments",
@@ -2920,7 +2920,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4528049998",
 								"fulfillments",
@@ -2953,7 +2953,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4528049998",
 								"fulfillments",
@@ -2992,7 +2992,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4495703502",
 								"fulfillments",
@@ -3029,7 +3029,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4495703502",
 								"fulfillments",
@@ -3070,7 +3070,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"fulfillment_services.json"
 							]
 						},
@@ -3103,7 +3103,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"fulfillment_services.json"
 							]
 						},
@@ -3132,7 +3132,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"fulfillment_services",
 								"1357646.json"
 							]
@@ -3166,7 +3166,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"fulfillment_services",
 								"1357646.json"
 							]
@@ -3200,7 +3200,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"fulfillment_services",
 								"1357646.json"
 							]
@@ -3237,7 +3237,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"gift_cards.json"
 							]
 						},
@@ -3266,7 +3266,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"gift_cards.json"
 							],
 							"query": [
@@ -3301,7 +3301,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"gift_cards",
 								"61466894.json"
 							]
@@ -3331,7 +3331,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"gift_cards",
 								"count.json"
 							]
@@ -3365,7 +3365,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"gift_cards.json"
 							]
 						},
@@ -3398,7 +3398,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"gift_cards",
 								"61810574.json"
 							]
@@ -3432,7 +3432,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"gift_cards",
 								"61810574",
 								"disable.json"
@@ -3463,7 +3463,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"gift_cards",
 								"search.json"
 							],
@@ -3506,7 +3506,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"locations.json"
 							]
 						},
@@ -3535,7 +3535,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"locations",
 								"8790723.json"
 							]
@@ -3572,7 +3572,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"metafields.json"
 							]
 						},
@@ -3601,7 +3601,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"metafields.json"
@@ -3632,7 +3632,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"metafields",
 								"count.json"
 							]
@@ -3662,7 +3662,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"metafields",
@@ -3694,7 +3694,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"metafields",
 								"33145232974.json"
 							]
@@ -3724,7 +3724,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"metafields",
@@ -3760,7 +3760,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"metafields.json"
 							]
 						},
@@ -3793,7 +3793,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"metafields.json"
@@ -3828,7 +3828,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"metafields",
 								"33145232974.json"
 							]
@@ -3862,7 +3862,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"metafields",
@@ -3898,7 +3898,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"metafields",
 								"33145232974.json"
 							]
@@ -3932,7 +3932,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"metafields",
@@ -3971,7 +3971,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders.json"
 							]
 						},
@@ -4000,7 +4000,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422.json"
 							]
@@ -4030,7 +4030,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"count.json"
 							]
@@ -4064,7 +4064,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"close.json"
@@ -4099,7 +4099,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"open.json"
@@ -4134,7 +4134,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"cancel.json"
@@ -4169,7 +4169,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"cancel.json"
@@ -4204,7 +4204,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders.json"
 							]
 						},
@@ -4237,7 +4237,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422.json"
 							]
@@ -4271,7 +4271,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422.json"
 							]
@@ -4312,7 +4312,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4602125518",
 								"risks.json"
@@ -4343,7 +4343,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4602125518",
 								"risks.json"
@@ -4374,7 +4374,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4602125518",
 								"risks",
@@ -4410,7 +4410,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4602125518",
 								"risks",
@@ -4446,7 +4446,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4602125518",
 								"risks",
@@ -4485,7 +4485,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"pages.json"
 							]
 						},
@@ -4514,7 +4514,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"pages",
 								"count.json"
 							]
@@ -4544,7 +4544,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"pages",
 								"169722563.json"
 							]
@@ -4578,7 +4578,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"pages.json"
 							]
 						},
@@ -4611,7 +4611,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"pages",
 								"216307854.json"
 							]
@@ -4645,7 +4645,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"pages",
 								"216307854.json"
 							]
@@ -4682,7 +4682,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"policies.json"
 							]
 						},
@@ -4718,7 +4718,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products.json"
 							]
 						},
@@ -4747,7 +4747,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"count.json"
 							]
@@ -4777,7 +4777,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555.json"
 							]
@@ -4811,7 +4811,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products.json"
 							]
 						},
@@ -4844,7 +4844,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"9579007950.json"
 							]
@@ -4878,7 +4878,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"9579007950.json"
 							]
@@ -4915,7 +4915,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"images.json"
@@ -4946,7 +4946,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"images",
@@ -4978,7 +4978,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"images",
@@ -5014,7 +5014,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"images.json"
@@ -5049,7 +5049,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"images",
@@ -5085,7 +5085,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"images",
@@ -5124,7 +5124,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"variants.json"
@@ -5155,7 +5155,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"variants",
@@ -5187,7 +5187,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"",
 								"variants",
 								"25831837123.json"
@@ -5222,7 +5222,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"variants.json"
@@ -5257,7 +5257,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"variants",
 								"34705478094.json"
 							]
@@ -5291,7 +5291,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"products",
 								"7990943555",
 								"variants",
@@ -5330,7 +5330,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"countries",
 								"261414723",
 								"provinces",
@@ -5362,7 +5362,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"countries",
 								"261414723",
 								"provinces.json"
@@ -5393,7 +5393,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"countries",
 								"261414723",
 								"provinces",
@@ -5429,7 +5429,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"countries",
 								"261414723",
 								"provinces",
@@ -5472,7 +5472,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"recurring_application_charges.json"
 							]
 						},
@@ -5508,7 +5508,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"redirects.json"
 							]
 						},
@@ -5537,7 +5537,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"redirects",
 								"count.json"
 							]
@@ -5567,7 +5567,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"redirects",
 								"count",
 								"7376372.json"
@@ -5602,7 +5602,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"redirects.json"
 							]
 						},
@@ -5635,7 +5635,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"redirects",
 								"293743566.json"
 							]
@@ -5669,7 +5669,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"redirects",
 								"293743566.json"
 							]
@@ -5705,7 +5705,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"refunds.json"
@@ -5736,7 +5736,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"refunds",
@@ -5772,7 +5772,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"refunds",
@@ -5808,7 +5808,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"refunds.json"
@@ -5846,7 +5846,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"script_tags.json"
 							]
 						},
@@ -5875,7 +5875,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"script_tags",
 								"count.json"
 							]
@@ -5905,7 +5905,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"script_tags",
 								"373484.json"
 							]
@@ -5939,7 +5939,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"script_tags.json"
 							]
 						},
@@ -5972,7 +5972,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"script_tags",
 								"108074126.json"
 							]
@@ -6006,7 +6006,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"script_tags",
 								"108074126.json"
 							]
@@ -6043,7 +6043,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"shipping_zones.json"
 							]
 						},
@@ -6079,7 +6079,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"shop.json"
 							]
 						},
@@ -6115,7 +6115,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"smart_collections.json"
 							]
 						},
@@ -6144,7 +6144,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"smart_collections",
 								"count.json"
 							]
@@ -6174,7 +6174,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"smart_collections",
 								"401912846.json"
 							]
@@ -6208,7 +6208,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"smart_collections.json"
 							]
 						},
@@ -6241,7 +6241,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"smart_collections",
 								"401912846.json"
 							]
@@ -6275,7 +6275,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"smart_collections",
 								"408154574.json"
 							]
@@ -6312,7 +6312,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"themes.json"
 							]
 						},
@@ -6341,7 +6341,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"themes",
 								"110163843.json"
 							]
@@ -6375,7 +6375,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"themes.json"
 							]
 						},
@@ -6408,7 +6408,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"themes",
 								"164593742.json"
 							]
@@ -6442,7 +6442,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"themes",
 								"164593742.json"
 							]
@@ -6479,7 +6479,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"transactions.json"
@@ -6510,7 +6510,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"transactions",
@@ -6542,7 +6542,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"transactions",
@@ -6578,7 +6578,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"orders",
 								"4554953422",
 								"transactions.json"
@@ -6628,7 +6628,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"webhooks.json"
 							]
 						},
@@ -6657,7 +6657,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"webhooks",
 								"count.json"
 							]
@@ -6687,7 +6687,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"webhooks",
 								"93838927.json"
 							]
@@ -6721,7 +6721,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"webhooks.json"
 							]
 						},
@@ -6754,7 +6754,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"webhooks",
 								"503738446.json"
 							]
@@ -6788,7 +6788,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"webhooks",
 								"503738446.json"
 							]
@@ -6825,7 +6825,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"comments.json"
 							]
 						},
@@ -6854,7 +6854,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"comments",
 								"count.json"
 							]
@@ -6884,7 +6884,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"comments",
 								"count.json"
 							],
@@ -6920,7 +6920,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"comments",
 								""
 							],
@@ -6956,7 +6956,7 @@
 								"",
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"comments.json"
 							]
 						},
@@ -6989,7 +6989,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"comments",
 								"2941387470.json"
 							]
@@ -7023,7 +7023,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"comments",
 								"2941387470",
 								"spam.json"
@@ -7058,7 +7058,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"comments",
 								"2941387470",
 								"not_spam.json"
@@ -7093,7 +7093,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"comments",
 								"2941387470",
 								"approve.json"
@@ -7128,7 +7128,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"comments",
 								"2941387470",
 								"remove.json"
@@ -7163,7 +7163,7 @@
 							"path": [
 								"admin",
 								"api",
-								"{{api_version}",
+								"{{api_version}}",
 								"comments",
 								"2941387470",
 								"restore.json"
