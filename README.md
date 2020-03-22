@@ -19,6 +19,7 @@ When creating new access token:
 - **Client Authentication:** Send client credentials in body
 
 Request your new access token and you should be good to go.
+If you have problem with authorization in your development store, try to disable transfer by activating developer preview.
 
 ## Missing Endpoints
 
