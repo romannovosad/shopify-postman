@@ -7177,6 +7177,56 @@
 			"protocolProfileBehavior": {}
 		}
 	],
+		{
+			"name": "GraphQL",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "X-Shopify-Access-Token",
+						"value": "<YOUR_ACCESS_TOKEN>",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "graphql",
+					"graphql": {
+						"query": "query($first: Int!, $filter: String!) { # declare the number of requested items and filter for these items\r\n  products(first: $first, query: $filter) { # request products using the variables\r\n\tedges {\r\n      node {\r\n        id\r\n      }\r\n    }\r\n  }\r\n}",
+						"variables": "{\n\t\"first\": 1,\n\t\"filter\": \"sku:123\"\n}"
+					},
+					"options": {
+						"raw": {
+							"language": "text"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/graphql.json",
+					"protocol": "https",
+					"host": [
+						"{{shop}}",
+						"myshopify",
+						"com"
+					],
+					"path": [
+						"admin",
+						"api",
+						"{{api_version}}",
+						"graphql.json"
+					]
+				}
+			},
+			"response": []
+		}
+	],
 	"auth": {
 		"type": "oauth2",
 		"oauth2": [
