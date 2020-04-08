@@ -2,6 +2,8 @@
 
 I was looking for a Shopify Postman colleciton and found one done by @lucasxxx and @renatodex, from a couple of years ago. I though I might remove some deprecated features and add OAuth 2.0 authorization.
 
+GraphQL example was added too, for this one "Content-Type" header must be "application/json" and access token must be added to the header directly.
+
 ## How to use?
 
 The Postman Collection file is a JSON containing all information about each request.
