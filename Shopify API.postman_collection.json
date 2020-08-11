@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "84e25761-7d91-41d4-bec7-882702a6ab5c",
+		"_postman_id": "e8012341-e4ce-41b0-95da-c57640b2c39d",
 		"name": "Shopify API",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -1020,7 +1020,7 @@
 							"raw": "{\n  \"collect\": {\n    \"product_id\": 921728736,\n    \"collection_id\": 841564295\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com//admin/api/{{api_version}}/collects.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/collects.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -1028,7 +1028,6 @@
 								"com"
 							],
 							"path": [
-								"",
 								"admin",
 								"api",
 								"{{api_version}}",
@@ -4767,7 +4766,7 @@
 							}
 						],
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/7990943555.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products/5012573913147.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -4779,7 +4778,7 @@
 								"api",
 								"{{api_version}}",
 								"products",
-								"7990943555.json"
+								"5012573913147.json"
 							]
 						},
 						"description": "https://help.shopify.com/api/reference/product#index"
@@ -4789,6 +4788,25 @@
 				{
 					"name": "Create a new product with multiple product variants",
 					"request": {
+						"auth": {
+							"type": "oauth2",
+							"oauth2": [
+								{
+									"key": "addTokenTo",
+									"value": "queryParams",
+									"type": "string"
+								},
+								{
+									"key": "accessToken",
+									"value": "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",
+									"type": "string"
+								},
+								{
+									"key": "tokenType",
+									"type": "any"
+								}
+							]
+						},
 						"method": "POST",
 						"header": [
 							{
@@ -4798,7 +4816,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"product\": {\n    \"title\": \"Burton Custom Freestyle 151\",\n    \"body_html\": \"<strong>Good snowboard!<\\/strong>\",\n    \"vendor\": \"Burton\",\n    \"product_type\": \"Snowboard\",\n    \"variants\": [\n      {\n        \"option1\": \"First\",\n        \"price\": \"10.00\",\n        \"sku\": 123\n      },\n      {\n        \"option1\": \"Second\",\n        \"price\": \"20.00\",\n        \"sku\": \"123\"\n      }\n    ]\n  }\n}"
+							"raw": "{\n    \"product\": {\n        \"title\": \"Set ko��k �portov� Street+ Air kon�trukcia + strie�ka Limited 100 Dots 2020 Petite&Mars\",\n        \"body_html\": \"Set obsahuje �portov� ko��k\",\n        \"vendor\": \"Petite&Mars\",\n        \"handle\": \"ag4ddd4sd4_977\",\n        \"variants\": [\n            {\n                \"price\": 308.99,\n                \"sku\": \"ag444_977\",\n                \"inventory_management\": \"shopify\",\n                \"inventory_quantity\": 2\n            }\n        ],\n        \"tags\": [\n            \"Ko��ky\",\n            \"Ko��ky\",\n            \"�portov� ko��ky\"\n        ],\n        \"images\": [\n            {\n                \"src\": \"https://serve-image-over-https.herokuapp.com/img?url=http://82.202.105.72:8084/userdata/images/clientzone/444_977/444_977.jpg\"\n            },\n            {\n                \"src\": \"https://serve-image-over-https.herokuapp.com/img?url=http://82.202.105.72:8084/userdata/images/clientzone/444_977/444_977_1.jpg\"\n            }\n        ]\n    }\n}"
 						},
 						"url": {
 							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/products.json",
@@ -6945,7 +6963,7 @@
 							"raw": "{\n  \"comment\": {\n    \"body\": \"I like comments\\nAnd I like posting them *RESTfully*.\",\n    \"author\": \"Your name\",\n    \"email\": \"renato@basico.com\",\n    \"ip\": \"107.20.160.121\",\n    \"blog_id\": 62581763,\n    \"article_id\": 128701187\n  }\n}"
 						},
 						"url": {
-							"raw": "https://{{shop}}.myshopify.com//admin/api/{{api_version}}/comments.json",
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/comments.json",
 							"protocol": "https",
 							"host": [
 								"{{shop}}",
@@ -6953,7 +6971,6 @@
 								"com"
 							],
 							"path": [
-								"",
 								"admin",
 								"api",
 								"{{api_version}}",
@@ -7175,10 +7192,43 @@
 				}
 			],
 			"protocolProfileBehavior": {}
-		}
-	],
+		},
+		{
+			"name": "Collection",
+			"item": [
+				{
+					"name": "Retrieve a list of products belonging to a collection",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://{{shop}}.myshopify.com/admin/api/{{api_version}}/collections/180953743419/products.json",
+							"protocol": "https",
+							"host": [
+								"{{shop}}",
+								"myshopify",
+								"com"
+							],
+							"path": [
+								"admin",
+								"api",
+								"{{api_version}}",
+								"collections",
+								"180953743419",
+								"products.json"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
 		{
 			"name": "GraphQL",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {}
+			},
 			"request": {
 				"auth": {
 					"type": "noauth"
@@ -7186,13 +7236,8 @@
 				"method": "POST",
 				"header": [
 					{
-						"key": "Content-Type",
-						"value": "application/json",
-						"type": "text"
-					},
-					{
 						"key": "X-Shopify-Access-Token",
-						"value": "<YOUR_ACCESS_TOKEN>",
+						"value": "{{password}}",
 						"type": "text"
 					}
 				],
@@ -7200,7 +7245,7 @@
 					"mode": "graphql",
 					"graphql": {
 						"query": "query($first: Int!, $filter: String!) { # declare the number of requested items and filter for these items\r\n  products(first: $first, query: $filter) { # request products using the variables\r\n\tedges {\r\n      node {\r\n        id\r\n      }\r\n    }\r\n  }\r\n}",
-						"variables": "{\n\t\"first\": 1,\n\t\"filter\": \"sku:123\"\n}"
+						"variables": "{\n\t\"first\": 1,\n\t\"filter\": \"sku:4000984030198\"\n}"
 					},
 					"options": {
 						"raw": {
@@ -7228,20 +7273,16 @@
 		}
 	],
 	"auth": {
-		"type": "oauth2",
-		"oauth2": [
+		"type": "basic",
+		"basic": [
 			{
-				"key": "accessToken",
-				"value": "",
+				"key": "password",
+				"value": "{{password}}",
 				"type": "string"
 			},
 			{
-				"key": "tokenType",
-				"type": "any"
-			},
-			{
-				"key": "addTokenTo",
-				"value": "header",
+				"key": "username",
+				"value": "{{api_key}}",
 				"type": "string"
 			}
 		]
@@ -7270,16 +7311,13 @@
 	],
 	"variable": [
 		{
-			"id": "cc0b9546-9787-45b1-a479-9e384e71aeb1",
-			"key": "shop",
-			"value": "your-development-shop",
-			"type": "string"
+			"id": "1ba842fe-f2fe-4c18-840a-ae4208833d21",
+			"key": "api_version",
+			"value": "2020-01"
 		},
 		{
-			"id": "f592a8ab-375f-42e6-b86d-99c801ec7501",
-			"key": "api_version",
-			"value": "2020-01",
-			"type": "string"
+			"id": "bff959ac-7666-4003-b110-b8f46ee8ed1c",
+			"value": ""
 		}
 	],
 	"protocolProfileBehavior": {}
